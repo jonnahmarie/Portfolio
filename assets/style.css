@@ -1,0 +1,31 @@
+body {
+    background-image: url("images/honeycomb.jpg");
+    background-repeat: repeat;
+    background-size: 1000px 800px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16pt;
+    color: #111111;
+}
+
+nav h2 {
+    font-family: 'Bebas Neue', cursive;
+    color: #fff;
+    font-size: 24pt;
+    letter-spacing: .2em;
+    padding-top: 15px;
+}
+
+nav a, a:link, a:visited, a:active {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18pt;
+    text-transform: lowercase;
+    color: #cccccc;
+}
+
+nav a:hover {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18pt;
+    text-transform: lowercase;
+    font-weight: bold;
+    color: #b2b4cb;
+}
