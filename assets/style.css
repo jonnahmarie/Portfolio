@@ -26,6 +26,6 @@ nav a:hover {
     font-family: 'Montserrat', sans-serif;
     font-size: 18pt;
     text-transform: lowercase;
-    font-weight: bold;
-    color: #b2b4cb;
+    color: #3F3458 !important;
+    background-color: #908B9B;
 }
