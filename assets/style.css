@@ -49,7 +49,23 @@ p {
     margin: 10px;
 }
 
+.resize {
+    width: 275px;
+    height: 275px;
+    margin: 10px;
+}
 
+.formStyle {
+    padding: 10px;
+}
+
+.btn-primary, .btn-primary:focus {
+    color:#fff;background-color:#987AEE;border-color:#987AEE;
+}
+
+.btn-primary:hover {
+    color:#fff;background-color:#7558C8;border-color:#7558C8;
+}
 
 @media screen and (max-width: 992px) {
 
@@ -57,14 +73,8 @@ p {
 
 @media screen and (max-width: 768px) {
 
-    }
 }
 
 @media screen and (max-width: 400px) {
-
-    }
-
-    color: #3F3458 !important;
-    background-color: #908B9B;
 
 }
