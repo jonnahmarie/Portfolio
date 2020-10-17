@@ -63,4 +63,8 @@ p {
 @media screen and (max-width: 400px) {
 
     }
+
+    color: #3F3458 !important;
+    background-color: #908B9B;
+
 }
