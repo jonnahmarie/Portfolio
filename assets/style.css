@@ -60,3 +60,7 @@ h4 {
 .btn-primary:hover {
     color:#fff;background-color:#7558C8;border-color:#7558C8;
 }
+
+.footer-margin {
+    height: 75px;
+}
