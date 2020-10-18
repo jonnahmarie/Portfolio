@@ -42,8 +42,8 @@ h4 {
 }
 
 .resize {
-    width: 275px;
-    height: 275px;
+    width: 250px;
+    height: 250px;
     object-fit: cover;
 }
 
