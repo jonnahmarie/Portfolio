@@ -13,14 +13,15 @@ nav h2 {
     letter-spacing: 2px;
 }
 
-nav a, a:link, a:visited, a:active {
+.nav-bar-style a:link {
     font-family: 'Montserrat', sans-serif;
     font-size: 18pt;
     text-transform: lowercase;
     color: #cccccc;
+    background-color: transparent !important;
 }
 
-nav a:hover {
+.nav-bar-style a:hover {
     font-family: 'Montserrat', sans-serif;
     font-size: 18pt;
     text-transform: lowercase;
@@ -41,6 +42,13 @@ h4 {
     background-color: #e6e7f9;
 }
 
+h5 {
+    font-family: 'Bebas Neue', cursive;
+    color: #7558C8;
+    font-size: 18pt;
+    text-align: center;
+}
+
 .resize {
     width: 250px;
     height: 250px;
@@ -51,6 +59,7 @@ h4 {
     width: 50px;
     height: 50px;
     object-fit: cover;
+    background-color: #ffffff;;
 }
 
 .btn-primary, .btn-primary:focus {
@@ -64,3 +73,11 @@ h4 {
 .footer-margin {
     height: 75px;
 }
+
+.links-btn a, a:link, a:visited, a:active {
+    background-color: #604e8a;
+    color: #ffffff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform: none;
+    font-size: 12pt;
+};
